@@ -2,7 +2,7 @@
 
 #### I'm a:
 - Software Engineer (SDE)
-- Machine Learning, Deep Learning, and Data Science practioner
+- Machine Learning, Deep Learning, and Data Science practitioner
 - And a lifelong learner!
 
 ---
